@@ -1,0 +1,16 @@
+{
+	"name": "data-factory-90",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "023744b2-7ff5-4be0-91fa-f97a4ae5b27c",
+		"tenantId": "a26c5590-978b-4423-82a4-4be95dc3900f"
+	}
+}
