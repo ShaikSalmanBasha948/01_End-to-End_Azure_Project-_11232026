@@ -5,13 +5,13 @@
 		"annotations": [],
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
-			"server": "sqlserver90.database.windows.net",
-			"database": "retail-db90",
+			"server": "sql-retail-pos-261117016.database.windows.net",
+			"database": "sql-retail-so",
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
-			"userName": "retail",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDI2OThDNEZDLUVDNDQtNDFGRS1BRTA0LTc1QzAxMDU2QTBCQV9hZDdjYTliNi04ZDc4LTQ3ODgtOGNmYS05MDgwM2JjNjBiZDciDQp9"
+			"userName": "Sksalman",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDk4NjlDREU4LTc4NTAtNDdEMC04OTI3LUZCRDA0Nzg1QTQ0Ml84MTQ2YzRlZi0xNzhjLTQxYzktOGY5Mi03NmY2N2IxOTQ2ZTUiDQp9"
 		}
 	}
 }

@@ -1,0 +1,16 @@
+{
+	"name": "adf-retai-de-2611186",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e23e887d-01b4-4d1c-99d1-dd23f8eb15c1",
+		"tenantId": "835ce266-f731-4137-b96f-0df3bd29c06d"
+	}
+}

@@ -19,7 +19,7 @@
 					"value": "@dataset().fileName",
 					"type": "Expression"
 				},
-				"folderPath": "warehouse-inventory/blob",
+				"folderPath": "werehouse-inventory/blob",
 				"container": "landing"
 			}
 		}

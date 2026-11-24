@@ -61,14 +61,7 @@
 			{
 				"name": "Copy_order_items",
 				"type": "Copy",
-				"dependsOn": [
-					{
-						"activity": "Copy_orders",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					}
-				],
+				"dependsOn": [],
 				"policy": {
 					"retry": 0,
 					"retryIntervalInSeconds": 30,
@@ -124,14 +117,7 @@
 			{
 				"name": "Copy_payments",
 				"type": "Copy",
-				"dependsOn": [
-					{
-						"activity": "Copy_order_items",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					}
-				],
+				"dependsOn": [],
 				"policy": {
 					"retry": 0,
 					"retryIntervalInSeconds": 30,
@@ -200,7 +186,7 @@
 			}
 		},
 		"annotations": [],
-		"lastPublishTime": "2026-11-23T06:56:50Z"
+		"lastPublishTime": "2026-11-24T12:22:53Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }

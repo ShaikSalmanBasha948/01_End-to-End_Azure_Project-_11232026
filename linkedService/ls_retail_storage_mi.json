@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://muzakeerst.dfs.core.windows.net/",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDI2OThDNEZDLUVDNDQtNDFGRS1BRTA0LTc1QzAxMDU2QTBCQV8wOWUzODIyNC1mYTg1LTQyOWQtYjNjYy05MzQzNmIzMTNhZWYiDQp9"
+			"url": "https://stretailde261117016.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDk4NjlDREU4LTc4NTAtNDdEMC04OTI3LUZCRDA0Nzg1QTQ0Ml83MGU3Mjk5Ni0xOTQ0LTQ3YjItOTI5Ni1jMDNmNzYzYTNjZWEiDQp9"
 		}
 	}
 }

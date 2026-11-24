@@ -17,17 +17,14 @@
 					"source": {
 						"type": "BinarySource",
 						"storeSettings": {
-							"type": "AzureBlobFSReadSettings",
+							"type": "AzureBlobStorageReadSettings",
 							"recursive": false
-						},
-						"formatSettings": {
-							"type": "BinaryReadSettings"
 						}
 					},
 					"sink": {
 						"type": "BinarySink",
 						"storeSettings": {
-							"type": "AzureBlobFSWriteSettings"
+							"type": "AzureBlobStorageWriteSettings"
 						}
 					},
 					"enableStaging": false
@@ -65,7 +62,7 @@
 			}
 		},
 		"annotations": [],
-		"lastPublishTime": "2026-11-23T10:02:25Z"
+		"lastPublishTime": "2026-11-24T12:28:52Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
